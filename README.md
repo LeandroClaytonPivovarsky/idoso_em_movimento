@@ -1,6 +1,8 @@
 # idoso_em_movimento
 
-A new Flutter project.
+O idoso em movimento é um projeto feito para a terceira idade encontrar atividades afim de se entreter.
+
+O projeto utilizará Flutter como linguagem principal e será desenvolvido em cima dela.
 
 ## Getting Started
 
