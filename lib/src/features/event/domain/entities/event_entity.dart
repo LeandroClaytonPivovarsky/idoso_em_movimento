@@ -26,17 +26,5 @@ class EventEntity extends Equatable {
   });
 
   @override
-  // TODO: implement props
-  List<Object?> get props => [
-        id,
-        title,
-        date,
-        time,
-        location,
-        category,
-        imageUrl,
-        attendees,
-        maxAttendees,
-        description
-      ];
+  List<Object?> get props => [id, title, date, time, location, category, imageUrl, attendees, maxAttendees, description];
 }
